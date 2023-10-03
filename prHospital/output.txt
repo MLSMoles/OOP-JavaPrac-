@@ -1,0 +1,100 @@
+Planta:0:
+Paciente [nombre=Alicia, apellidos=Keys, nuss=4488106841, anoDeNacimiento=1981]
+Paciente [nombre=Alessandra, apellidos=Ambrosio, nuss=8993637613, anoDeNacimiento=1981]
+Paciente [nombre=Adriana, apellidos=Karenbeu, nuss=0561128832, anoDeNacimiento=1971]
+Paciente [nombre=Al, apellidos=Gore, nuss=4262893352, anoDeNacimiento=1948]
+Paciente [nombre=Al, apellidos=Pacino, nuss=7611603235, anoDeNacimiento=1940]
+Paciente [nombre=Adolfo, apellidos=Perez-Esquivel, nuss=0837990171, anoDeNacimiento=1931]
+Paciente [nombre=Alan, apellidos=Chepard, nuss=6489579680, anoDeNacimiento=1923]
+Paciente [nombre=Aldo, apellidos=Moro, nuss=3745187275, anoDeNacimiento=1916]
+Paciente [nombre=Albert, apellidos=Camus, nuss=1710002791, anoDeNacimiento=1913]
+Paciente [nombre=Agustin, apellidos=Lara, nuss=2876703738, anoDeNacimiento=1900]
+Paciente [nombre=Alfred, apellidos=Hitchcock, nuss=3635336290, anoDeNacimiento=1899]
+Paciente [nombre=Al, apellidos=Capone, nuss=3946671130, anoDeNacimiento=1899]
+Paciente [nombre=Agatha, apellidos=Chriestie, nuss=2895510826, anoDeNacimiento=1890]
+Paciente [nombre=Adolfo, apellidos=Hitler, nuss=5465995264, anoDeNacimiento=1889]
+Paciente [nombre=Alexander, apellidos=Kerensky, nuss=9051869743, anoDeNacimiento=1881]
+Paciente [nombre=Albert, apellidos=Einstein, nuss=7104083471, anoDeNacimiento=1879]
+Paciente [nombre=Albert, apellidos=Schweitzer, nuss=7030339829, anoDeNacimiento=1875]
+Paciente [nombre=Abraham, apellidos=Lincoln, nuss=6669444861, anoDeNacimiento=1809]
+Paciente [nombre=Alejandro, apellidos=Dumas, nuss=6503158367, anoDeNacimiento=1802]
+Paciente [nombre=Adam, apellidos=Smith, nuss=5186046392, anoDeNacimiento=1723]
+Planta:1:
+Paciente [nombre=Anna, apellidos=Kournikova, nuss=8418100035, anoDeNacimiento=1981]
+Paciente [nombre=Angelina, apellidos=Jolie, nuss=8167807396, anoDeNacimiento=1975]
+Paciente [nombre=Antonio, apellidos=Banderas, nuss=7169050132, anoDeNacimiento=1960]
+Paciente [nombre=Angela, apellidos=Merkel, nuss=3856312192, anoDeNacimiento=1954]
+Paciente [nombre=Anatoly, apellidos=Karpov, nuss=5057523820, anoDeNacimiento=1951]
+Paciente [nombre=Angelica, apellidos=Maria, nuss=5038997426, anoDeNacimiento=1943]
+Paciente [nombre=Annan, apellidos=Kofi, nuss=9428986747, anoDeNacimiento=1938]
+Paciente [nombre=Anthony, apellidos=Hopkins, nuss=8059089594, anoDeNacimiento=1937]
+Paciente [nombre=Antonio Carlos, apellidos=Jobim, nuss=2344845664, anoDeNacimiento=1927]
+Paciente [nombre=Allan, apellidos=Greenspan, nuss=3546896340, anoDeNacimiento=1926]
+Paciente [nombre=Allen, apellidos=Ginsberg, nuss=5439262872, anoDeNacimiento=1923]
+Paciente [nombre=Anthony, apellidos=Quinn, nuss=1435164914, anoDeNacimiento=1915]
+Paciente [nombre=Alonso, apellidos=Damaso, nuss=3885431592, anoDeNacimiento=1898]
+Paciente [nombre=Andre, apellidos=Breton, nuss=8365764592, anoDeNacimiento=1896]
+Paciente [nombre=Antonio, apellidos=Machado, nuss=0673932455, anoDeNacimiento=1875]
+Paciente [nombre=Amado, apellidos=Nervo, nuss=4413957112, anoDeNacimiento=1870]
+Paciente [nombre=Antonio, apellidos=Chekhov, nuss=6313288345, anoDeNacimiento=1860]
+Paciente [nombre=Andres, apellidos=Bello, nuss=3992731073, anoDeNacimiento=1781]
+Paciente [nombre=Andre-Marie, apellidos=Ampere, nuss=7276995671, anoDeNacimiento=1775]
+Paciente [nombre=Antonio, apellidos=Lavoisier, nuss=1566876261, anoDeNacimiento=1743]
+Planta:2:
+Paciente [nombre=Avril, apellidos=Lavigne, nuss=7867894312, anoDeNacimiento=1984]
+Paciente [nombre=Ashley, apellidos=Judd, nuss=7922298376, anoDeNacimiento=1968]
+Paciente [nombre=Ayrton, apellidos=Senna, nuss=3262532049, anoDeNacimiento=1960]
+Paciente [nombre=Arnold, apellidos=Schwarzenegger, nuss=7215395217, anoDeNacimiento=1947]
+Paciente [nombre=Ariel, apellidos=Sharon, nuss=5460434336, anoDeNacimiento=1928]
+Paciente [nombre=Augusto, apellidos=Pinochet, nuss=5247602491, anoDeNacimiento=1915]
+Paciente [nombre=Atahualpa, apellidos=Yupanqui, nuss=7263307860, anoDeNacimiento=1908]
+Paciente [nombre=Arthur, apellidos=Rimbaud, nuss=9462931693, anoDeNacimiento=1854]
+Paciente [nombre=Arthur, apellidos=Schopenhauer, nuss=2805848874, anoDeNacimiento=1788]
+Paciente [nombre=Antonio, apellidos=Vivaldi, nuss=8414193157, anoDeNacimiento=1678]
+Planta:3:
+Planta:4:
+Planta:5:
+Planta:6:
+Planta:7:
+Planta:8:
+Planta:9:
+Planta:10:
+Planta:11:
+Planta:12:
+Planta:13:
+Planta:14:
+Planta:15:
+Planta:16:
+Planta:17:
+Planta:18:
+Planta:19:
+Planta:20:
+Planta:21:
+Planta:22:
+Planta:23:
+Planta:24:
+Planta:25:
+Planta:26:
+Planta:27:
+Planta:28:
+Planta:29:
+Planta:30:
+Planta:31:
+Planta:32:
+Planta:33:
+Planta:34:
+Planta:35:
+Planta:36:
+Planta:37:
+Planta:38:
+Planta:39:
+Planta:40:
+Planta:41:
+Planta:42:
+Planta:43:
+Planta:44:
+Planta:45:
+Planta:46:
+Planta:47:
+Planta:48:
+Planta:49:
