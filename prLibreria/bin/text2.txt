@@ -1,0 +1,7 @@
+    ("Philip K. Dick", "¿Sueñan los androides con ovejas eléctricas?")
+    ("isaac asimov", "fundación e imperio")
+    ("Ray Bradbury", "Fahrenheit 451")
+    ("Isaac Asimov", "La Fundación")
+    ("william gibson", "neuromante")
+    ("Isaac Asimov", "Segunda Fundación")
+    ("Isaac Newton", "Arithmetica Universalis")
